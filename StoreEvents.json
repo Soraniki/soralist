@@ -7,22 +7,22 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 1600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
-		"price": 400,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rain",
-		"price": 350,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -32,12 +32,12 @@
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 250,
+		"price": 100,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 100,
 		"karmatype": "Bad"
 	},
 	{
@@ -57,32 +57,32 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 300,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 100,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 300,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 300,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 220,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 600,
 		"karmatype": "Doom"
 	},
 	{
@@ -92,12 +92,12 @@
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 100,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "aurora",
-		"price": 200,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -122,7 +122,7 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"price": 120,
 		"karmatype": "Good"
 	},
 	{
@@ -167,7 +167,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 220,
 		"karmatype": "Good"
 	},
 	{
@@ -177,7 +177,7 @@
 	},
 	{
 		"abr": "shipchunkdrop",
-		"price": 300,
+		"price": 90,
 		"karmatype": "Good"
 	},
 	{
@@ -227,47 +227,42 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 1500,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "predators",
-		"price": 2500,
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -277,17 +272,17 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -321,5 +316,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 63
 }
