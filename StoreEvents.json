@@ -192,7 +192,7 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -267,7 +267,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -277,7 +277,7 @@
 	},
 	{
 		"abr": "levelskill",
-		"price": 1000,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -287,7 +287,7 @@
 	},
 	{
 		"abr": "removetrait",
-		"price": 5000,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
