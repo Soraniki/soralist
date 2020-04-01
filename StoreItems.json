@@ -8,7 +8,7 @@
 	},
 	{
 		"abr": "adrenaline",
-		"price": 30,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "Adrenaline"
 	},
@@ -404,7 +404,7 @@
 	},
 	{
 		"abr": "arcticfox",
-		"price": -10,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
@@ -734,13 +734,13 @@
 	},
 	{
 		"abr": "beret",
-		"price": 30,
+		"price": -10,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Beret"
 	},
 	{
 		"abr": "beret",
-		"price": -10,
+		"price": 50,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_Beret"
 	},
@@ -1298,7 +1298,7 @@
 	},
 	{
 		"abr": "cape",
-		"price": -10,
+		"price": 50,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_Cape"
 	},
@@ -1334,7 +1334,7 @@
 	},
 	{
 		"abr": "cardsharkhat",
-		"price": -10,
+		"price": 50,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Cardshark"
 	},
@@ -1622,7 +1622,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": -10,
+		"price": 100,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -1820,13 +1820,13 @@
 	},
 	{
 		"abr": "cleanerbasestation",
-		"price": -10,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner"
 	},
 	{
 		"abr": "cleaningbot",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AIRobot_Cleaner"
 	},
@@ -1910,7 +1910,7 @@
 	},
 	{
 		"abr": "coconuts",
-		"price": -10,
+		"price": 5,
 		"category": "Vegetarian",
 		"defname": "BiomesIslands_Coconuts"
 	},
@@ -2024,7 +2024,7 @@
 	},
 	{
 		"abr": "cow",
-		"price": -10,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Cow"
 	},
@@ -2138,7 +2138,7 @@
 	},
 	{
 		"abr": "decaydrake",
-		"price": -10,
+		"price": 800,
 		"category": "Animal",
 		"defname": "AA_DecayDrake"
 	},
@@ -2324,7 +2324,7 @@
 	},
 	{
 		"abr": "doctorscrubs",
-		"price": -10,
+		"price": 50,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_DoctorScrubs"
 	},
@@ -2354,7 +2354,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": -10,
+		"price": 1200,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -2444,7 +2444,7 @@
 	},
 	{
 		"abr": "duck",
-		"price": -10,
+		"price": 80,
 		"category": "Animal",
 		"defname": "Duck"
 	},
@@ -2768,7 +2768,7 @@
 	},
 	{
 		"abr": "fennecfox",
-		"price": -10,
+		"price": 250,
 		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
@@ -2894,25 +2894,25 @@
 	},
 	{
 		"abr": "flakhelmet",
-		"price": -10,
+		"price": 250,
 		"category": "Headgear",
 		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
 		"abr": "flakjacket",
-		"price": -10,
+		"price": 250,
 		"category": "Armor",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "flakpants",
-		"price": -10,
+		"price": 250,
 		"category": "Armor",
 		"defname": "Apparel_FlakPants"
 	},
 	{
 		"abr": "flakvest",
-		"price": -10,
+		"price": 250,
 		"category": "Armor",
 		"defname": "Apparel_FlakVest"
 	},
@@ -2936,7 +2936,7 @@
 	},
 	{
 		"abr": "flamethrower",
-		"price": -10,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Flamethrower"
 	},
@@ -3493,128 +3493,8 @@
 		"defname": "Meat_AA_Groundrunner"
 	},
 	{
-		"abr": "guestadvancedbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_AdvBedGuest"
-	},
-	{
-		"abr": "guestadvanceddoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_AdvDoubleBedGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RGK_bedSingleGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RGK_bedSingleBGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestclassydoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "GL_ClassyDoubleBedGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RGK_bedDoubleGuest"
-	},
-	{
-		"abr": "guestdoublebed2",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RGK_bedDoubleBGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
 		"abr": "guineapig",
-		"price": -10,
+		"price": 80,
 		"category": "Animal",
 		"defname": "GuineaPig"
 	},
@@ -3740,13 +3620,13 @@
 	},
 	{
 		"abr": "haulerbasestation",
-		"price": -10,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler"
 	},
 	{
 		"abr": "haulingbot",
-		"price": 500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AIRobot_Hauler"
 	},
@@ -3974,7 +3854,7 @@
 	},
 	{
 		"abr": "horse",
-		"price": -10,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Horse"
 	},
@@ -4013,12 +3893,6 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Human"
-	},
-	{
-		"abr": "humanflesh",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_MO_AbominationRace"
 	},
 	{
 		"abr": "humanleather",
@@ -4670,7 +4544,7 @@
 	},
 	{
 		"abr": "lever-actionrifle",
-		"price": -10,
+		"price": 200,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_LeverActionRifle"
 	},
@@ -4838,7 +4712,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": 200,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -5372,7 +5246,7 @@
 	},
 	{
 		"abr": "muffalo",
-		"price": -10,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
@@ -5876,7 +5750,7 @@
 	},
 	{
 		"abr": "paddyhat",
-		"price": -10,
+		"price": 80,
 		"category": "Apparello headgear",
 		"defname": "Apparello_Tradecone"
 	},
@@ -6914,7 +6788,7 @@
 	},
 	{
 		"abr": "royalrobe",
-		"price": -10,
+		"price": 150,
 		"category": "Noble apparel",
 		"defname": "Apparel_RobeRoyal"
 	},
@@ -7067,12 +6941,6 @@
 		"price": -10,
 		"category": "Eyewear",
 		"defname": "Apparello_Goggles"
-	},
-	{
-		"abr": "scytherblade",
-		"price": -10,
-		"category": "Bionic",
-		"defname": "ScytherBlade"
 	},
 	{
 		"abr": "seaturtle",
@@ -8005,12 +7873,6 @@
 		"defname": "Techprint_ArtificialMetabolism"
 	},
 	{
-		"abr": "techprint(brainwiring)",
-		"price": -10,
-		"category": "Techprints",
-		"defname": "Techprint_BrainWiring"
-	},
-	{
 		"abr": "techprint(cataphractarmor)",
 		"price": -10,
 		"category": "Techprints",
@@ -8885,7 +8747,127 @@
 		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleBGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestclassydoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GL_ClassyDoubleBedGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleGuest"
+	},
+	{
+		"abr": "guestdoublebed2",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleBGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
 	}
 	],
-	"total": 1481
+	"total": 1521
 }
